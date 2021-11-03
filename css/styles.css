@@ -607,8 +607,10 @@ progress {
 
 }
 .img-fluid1 {
-  max-width:30%;
-  height: 40%;
+  max-width:100%;
+  height: 100%;
+  padding-right:20px;
+  padding-bottom:20px;
 }
 .img-thumbnail {
   padding: 0.25rem;
@@ -11405,8 +11407,8 @@ section.resume-section {
   align-items: center;
   padding-left: 1rem;
   padding-right: 1rem;
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 2rem;
+  padding-bottom: 0em;
   max-width: 75rem;
 }
 section.resume-section .resume-section-content {
